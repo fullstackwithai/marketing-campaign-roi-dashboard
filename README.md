@@ -1,20 +1,12 @@
+![Marketing Campaign ROI Dashboard premium hero](assets/readme-hero.svg)
+
 # Marketing Campaign ROI Dashboard
 
 > Marketing BI dashboard for campaign spend, ROAS, channel performance, conversion quality, and executive marketing ROI visibility.
 
 Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-<p align="center">
-  <img alt="Marketing ROI" src="https://img.shields.io/badge/Marketing%20ROI-Campaign%20Performance-EC4899?style=for-the-badge" />
-  <img alt="Channel BI" src="https://img.shields.io/badge/Channel%20BI-ROAS%20Tracking-111827?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Growth%20Analytics-7C3AED?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
 
 ---
 
@@ -72,6 +64,8 @@ This repository is presented as a premium marketing analytics dashboard for trac
 
 ```text
 marketing-campaign-roi-dashboard/
+├── assets/
+│   └── readme-hero.svg
 ├── data/
 │   └── campaign-performance-sample.csv
 ├── sql/
@@ -97,12 +91,6 @@ marketing-campaign-roi-dashboard/
 |---|---|
 | I build dashboards that turn marketing data into clear growth and budget decisions. | **FullStackWithAI** represents premium portfolio work around real business dashboards, polished reporting, and AI-assisted execution. |
 
-<p align="center">
-  <strong>Theme:</strong> Marketing ROI · Growth Analytics · Campaign BI · ROAS Intelligence
-</p>
+**Theme:** Marketing ROI · Growth Analytics · Campaign BI · ROAS Intelligence
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
