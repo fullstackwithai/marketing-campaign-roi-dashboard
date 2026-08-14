@@ -1,18 +1,25 @@
-![Marketing Campaign ROI Dashboard premium hero](assets/readme-hero.svg)
+<div align="center">
 
-# Marketing Campaign ROI Dashboard
+# MARKETING CAMPAIGN ROI DASHBOARD
 
-> Marketing BI dashboard for campaign spend, ROAS, channel performance, conversion quality, and executive marketing ROI visibility.
+### Growth Analytics, ROAS & Campaign Performance Intelligence
 
-Built by **Arsim Shefkiu** under **FullStackWithAI**.
+**Ad spend. Conversion quality. Channel performance. Growth decisions.**
 
-[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
+[![Portfolio](https://img.shields.io/badge/portfolio-DesignHubMK-0A66C2?style=flat-square)](https://www.designhubmk.com)
+![Focus](https://img.shields.io/badge/focus-Marketing%20Analytics-7C3AED?style=flat-square)
+![Analytics](https://img.shields.io/badge/analytics-ROAS%20%2B%20Growth-EC4899?style=flat-square)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-2E8B57?style=flat-square)
+
+**Ad spend to performance clarity. Campaign data to growth decisions.**
+
+</div>
 
 ---
 
-## Marketing ROI Theme
+![Marketing Campaign ROI Dashboard premium hero](assets/readme-hero.svg)
 
-> **Ad spend to performance clarity. Campaign data to growth decisions.**
+## Marketing ROI Theme
 
 This repository is presented as a premium marketing analytics dashboard for tracking campaign ROI, paid channel efficiency, lead quality, conversion performance, and budget allocation.
 
@@ -81,16 +88,28 @@ marketing-campaign-roi-dashboard/
 
 ---
 
-## Creator & Brand
+## Author
 
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
+**Arsim Shefkiu**  
+**AI Software Engineer · Full-Stack Developer · SaaS & Automation**
 
-> **Marketing ROI theme focused on campaign performance, channel intelligence, ROAS tracking, and growth clarity.**
+Founder of **DesignHubMK**, building AI-powered software, automation systems, and full-stack digital products.
 
-| Creator Focus | Brand Positioning |
-|---|---|
-| I build dashboards that turn marketing data into clear growth and budget decisions. | **FullStackWithAI** represents premium portfolio work around real business dashboards, polished reporting, and AI-assisted execution. |
+[![DesignHubMK](https://img.shields.io/badge/DesignHubMK-Website-555555?logo=googlechrome&logoColor=white)](https://www.designhubmk.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40designhub__mk-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/designhub_mk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fullstackwithai-181717?logo=github&logoColor=white)](https://github.com/fullstackwithai)
 
-**Theme:** Marketing ROI · Growth Analytics · Campaign BI · ROAS Intelligence
+**Website:** https://www.designhubmk.com  
+**Instagram:** @designhub_mk
 
-[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
+---
+
+<div align="center">
+
+## Marketing Campaign ROI Dashboard
+
+**Ad spend to performance clarity. Campaign data to growth decisions.**
+
+Built by **Arsim Shefkiu · DesignHubMK**
+
+</div>
